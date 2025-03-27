@@ -10,7 +10,7 @@
   import UIKit
 
   /// A SwiftUI view which displays Braze Content Cards.
-  @available(iOS 13.0, *)
+  @available(iOS 18.0, *)
   public struct ContentCardsView: UIViewControllerRepresentable {
 
     /// The attributes supported by the view.

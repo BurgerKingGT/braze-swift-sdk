@@ -12,7 +12,7 @@
     ///           to low priorities (default: `false`).
     ///   - layout: A layout closure executed after the previous parameters have been applied.
     /// - Returns: A SwiftUI previews compatible view.
-    @available(iOS 13.0, *)
+    @available(iOS 18.0, *)
     func preview(
       pin: UILayoutPriority? = nil,
       center: UILayoutPriority? = nil,

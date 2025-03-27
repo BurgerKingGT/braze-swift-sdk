@@ -651,7 +651,7 @@ extension BrazeContentCardUI {
 #if UI_PREVIEWS
   import SwiftUI
 
-  @available(iOS 13.0, *)
+  @available(iOS 18.0, *)
   struct BrazeContentCardUIViewController_Previews: PreviewProvider {
 
     static let cards: [Braze.ContentCard] = [

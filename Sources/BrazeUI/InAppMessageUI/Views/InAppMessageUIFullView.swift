@@ -278,7 +278,7 @@ extension BrazeInAppMessageUI {
 #if UI_PREVIEWS
   import SwiftUI
 
-  @available(iOS 14.0, *)
+  @available(iOS 18.0, *)
   struct FullView_Previews: PreviewProvider {
     typealias FullView = BrazeInAppMessageUI.FullView
 

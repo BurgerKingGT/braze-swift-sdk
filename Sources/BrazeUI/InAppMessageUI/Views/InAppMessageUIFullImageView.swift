@@ -224,7 +224,7 @@ extension BrazeInAppMessageUI {
 #if UI_PREVIEWS
   import SwiftUI
 
-  @available(iOS 13.0, *)
+  @available(iOS 18.0, *)
   struct FullImageView_Previews: PreviewProvider {
     typealias FullImageView = BrazeInAppMessageUI.FullImageView
 

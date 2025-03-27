@@ -541,7 +541,7 @@ extension BrazeInAppMessageUI {
 #if UI_PREVIEWS
   import SwiftUI
 
-  @available(iOS 13.0, *)
+  @available(iOS 18.0, *)
   struct SlideupView_Previews: PreviewProvider {
     typealias SlideupView = BrazeInAppMessageUI.SlideupView
 
