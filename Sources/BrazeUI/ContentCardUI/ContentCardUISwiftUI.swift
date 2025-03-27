@@ -67,7 +67,7 @@
 
   }
 
-  @available(iOS 13.0, *)
+  @available(iOS 18.0, *)
   extension ContentCardsView {
 
     public class Coordinator: BrazeContentCardUIViewControllerDelegate {

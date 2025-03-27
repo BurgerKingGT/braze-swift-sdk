@@ -79,7 +79,7 @@
 
   extension UIViewController {
 
-    @available(iOS 13.0, *)
+    @available(iOS 18.0, *)
     func preview() -> some View {
       struct Wrapper: UIViewControllerRepresentable {
         typealias UIViewControllerType = UIViewController
